@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CarType.h
+
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CarUnit.cpp
+CarUnit.h
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CarUnit.h
+
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CarUnit.h
+iostream
+-
+CarType.h
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CarType.h
+GearType.h
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/GearType.h
+
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/GearType.h
+

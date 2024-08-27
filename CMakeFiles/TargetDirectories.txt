@@ -1,0 +1,5 @@
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CMakeFiles/main.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CMakeFiles/func.dir
+/home/kpit/Desktop/Desktop_2/SimranNarya_219593/ques3/CMakeFiles/carunit.dir

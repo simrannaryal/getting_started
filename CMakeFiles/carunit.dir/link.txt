@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcarunit.a  CMakeFiles/carunit.dir/CarUnit.cpp.o
+/usr/bin/ranlib libcarunit.a
